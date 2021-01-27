@@ -1,1 +1,4 @@
-# LogicProgramming Project using Kanren
+# LogicProgramming Project
+Using Kanren Packege\
+Programming Language:
+Python 
