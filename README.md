@@ -1,5 +1,5 @@
 # LogicProgramming Project
-Using Kanren Packege\
+Using Kanren Package\
 Programming Language:\
 Python \
 This project uses Python Kanren Package to create a programming project using logic programming.\
